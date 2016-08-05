@@ -1,0 +1,95 @@
+.img1{
+	background-image: url(../img/dance_1.jpg);
+}
+.studio{
+	font-size: 70px;
+	color: #C3C6C5;
+	padding: 100px 0px 0px 90px;
+	margin: 0px;
+}
+.button {
+	display: inline-block;
+	border-radius: 8px;
+	background-color: #192951;
+	text-align: center;
+	color: white;
+}
+.b-inscribete {
+	padding:15px 20px;
+	margin-left: 90px;
+	background-color: #040E1D;
+}
+.background-gray {
+	background-image: url("../img/textura_2.jpg");
+	text-align: center;
+	height: 400px;
+}
+.b-oferta-clases {
+	padding:25px 105px;
+	
+}
+.img-decoration {
+	width: 110px;
+	padding: 10px 0px 30px 0px;
+}
+.txt1 {
+	padding: 0px 0px 20px 90px;
+}
+.txt2 {
+	font-size: 25px;
+	padding: 80px 350px 0px 350px;
+}
+.txt4 {
+	font-size: 45px;
+	padding: 100px 150px;
+	height: 100px;
+}
+.txt5 {
+	padding:50px 100px 0px 80px;
+}
+.b-nuestros-instructores{
+	padding: 10px 250px;
+	position: absolute;
+	left: 350px;
+	bottom: 0px;
+}
+.ballet1{
+	background-image: url("../img/instructor_4.jpg");
+	width: 675px;
+	height: 300px;
+	background-size: 675px 500px;
+	margin: 0;
+	border: 1px solid #192951;
+}
+.ballet2{
+	background-image: url("../img/profesor_9.jpg");
+	width: 674px;
+	height: 300px;
+	background-size: 674px 500px;
+	margin: 0;
+	border: 1px solid #192951;
+}
+.section-4{
+	background-image: url("../img/textura_2.jpg");
+	text-align: center;
+	height: 250px;
+}
+.map{
+	margin-top: 40px;
+	width: 500px;
+	height: 300px;
+
+}
+.background-blue{
+	background-color: #192951;
+	color: white;
+	height: 400px;
+}
+
+.parrafo-background-blue{
+	margin: 5px 0px;
+}
+.background-blue{
+	margin-top: 45px;
+	margin-bottom: 0px;
+}

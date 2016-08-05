@@ -1,0 +1,45 @@
+h2 {
+	padding:60px;
+}
+h5 {
+   color:#A4A4A4;
+}
+button {
+	padding:2px 80px;
+	border-radius: 5px;
+	border:1px solid #192951;
+	background-color:#192951;
+}
+button a {
+	color:white;
+	text-decoration: none;
+}
+.uno {
+	background-color: #D8D8D8;
+}
+.caja {
+	padding:30px 60px;
+	background-color:#BDBDBD;
+}
+.imageblog {
+	background-image: url("../img/blog1.jpg");;
+	background-repeat: no-repeat;
+	width:330px;
+	height:330px;
+	background-size:260px 275px;
+
+}
+.imageblog2 {
+	background-image: url("../img/profesor_5.jpg");
+	background-repeat: no-repeat;
+	width:330px;
+	height:330px;
+	background-size:260px 275px;
+}
+.imageblog3 {
+	background-image: url("../img/instructor_1.jpg");
+	background-repeat: no-repeat;
+	width:330px;
+	height:330px;
+	background-size:260px 275px;
+}
